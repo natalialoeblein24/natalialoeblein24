@@ -17,9 +17,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
@@ -49,9 +49,9 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/natalia-loeblein/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:natalialoeblein1@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-loeblein/)](https://www.linkedin.com/in/natalia-loeblein/)
+[![Gmail Badge](https://img.shields.io/badge/-natalialoeblein1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natalialoeblein1@gmail.com)](mailto:natalialoeblein1@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/natalialoeblein24)
 
-[![natalialoeblein24](https://github-readme-stats.vercel.app/api/top-langs/?username=natalialoeblein24&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![natalialoeblein24](https://github-readme-stats.vercel.app/api/top-langs/?username=natalialoeblein24&hide=html&layout=compact&theme=dark)](https://github.com/natalialoeblein24/github-readme-stats)
 
