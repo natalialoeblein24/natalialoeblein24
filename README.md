@@ -44,7 +44,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Natalia-Loeblein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-loeblein/)](https://www.linkedin.com/in/natalia-loeblein/)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-loeblein/)](https://www.linkedin.com/in/natalia-loeblein/)
 [![Gmail Badge](https://img.shields.io/badge/-natalialoeblein1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natalialoeblein1@gmail.com)](mailto:natalialoeblein1@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/natalialoeblein24)
 
