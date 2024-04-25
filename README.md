@@ -41,15 +41,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil da Natalia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-loeblein/)](https://www.linkedin.com/in/natalia-loeblein/)
+[![Linkedin](https://img.shields.io/badge/-Natalia-Loeblein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-loeblein/)](https://www.linkedin.com/in/natalia-loeblein/)
 [![Gmail Badge](https://img.shields.io/badge/-natalialoeblein1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natalialoeblein1@gmail.com)](mailto:natalialoeblein1@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/natalialoeblein24)
 
