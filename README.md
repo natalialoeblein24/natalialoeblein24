@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções em dados.
-- 🎓 Estudando Engenharia de Dados pela bolsa do Santander Coders 2023.
+- 🎓 Formada no Curso de Engenharia de Dados pela bolsa do Santander Coders 2023.
 - 💼 Trabalhando com Operações na G5 - Competence.
 - 🌱 Aprendendo mais sobre Data Engineering, Data Mining, Data Modelling, Data Integration, Business Intelligence.
 
