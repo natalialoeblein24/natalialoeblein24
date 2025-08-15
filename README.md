@@ -2,10 +2,12 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções em dados.
-- 🎓 Formada no Curso de Engenharia de Dados pela bolsa do Santander Coders 2023.
-- 💼 Trabalhando como Engenheira de Dados na Somativa.
-- 🌱 Aprendendo mais sobre Data Engineering, Data Mining, Data Modelling, Data Integration, Business Intelligence.
+- 🤔 Explorando tecnologias e construindo pipelines de dados escaláveis.
+- 🎓 Formada em Engenharia de Dados (Santander Coders 2023) e Análise e Desenvolvimento de Sistemas (UNIP).
+- 💼 Engenheira de Dados na Somativa, atuando com Python, PySpark, SQL, Databricks, Dremio, Airflow, Airbyte, dbt, Azure Blob e SAP.
+- 🌱 Interessada em aprofundar conhecimentos em arquitetura de dados e serviços em nuvem (AWS).
+- ⚙️ Experiência em ingestão, transformação, modelagem dimensional e otimização de performance.
+- 📌 Entusiasta de código sustentável e boas práticas em engenharia de dados.
 
 ## Minhas Skills
 
